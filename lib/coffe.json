@@ -1,0 +1,17 @@
+{"data":[
+    {"nama": "Cappucino Panas","img": "assets/minum2.png","harga": 2.00,"rating": 4.5,"deskripsi":"Cappuccino Panas diseduhi dengan Topping Americano.secangkir kopi nikmat yang atasnya dipenuhi buih (milk foam) yang bagian dasarnya dipenuhi espresso mixed susu,"},
+    {"nama": "Mocha Latte","img": "assets/minum2.png","harga": 2.19,"rating": 4.5,"deskripsi":"Mocha Latte  merupakan kombinasi dari cokelat dan Espresso yang menghasilkan rasa manis, kuat, dan nikmat dalam satu tegukan.biasanya menggunakan dark chocolate yang dicampur dengan seduhan Espresso, lalu diaduk, kemudian disajikan dengan Latte style steamed milk."},
+    {"nama": "Kopi Hitam","img": "assets/minum2.png","harga": 1.95,"rating": 4.5,"deskripsi":"Black coffee adalah salah satu minuman kopi yang biasanya dibuat dengan menggunakan mesin yang bisa menghasilkan kopi dengan rasa yang pahit."},
+    {"nama": "Ekspresso","img": "assets/minum2.png","harga": 1.75,"rating": 4.0,"deskripsi":" Espresso merupakan kopi yang dihasilkan dari proses penyeduhan kopi dengan tekanan dan suhu tinggi. Kopi espresso dibuat dengan menggiling kopi hingga halus."},
+    {"nama": "Kentang Goreng","img": "assets/Makanan2.png","harga": 1.85,"rating": 4.5,"deskripsi":"Kentang goreng adalah hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas"},
+    {"nama": "Burger Bulgogi","img": "assets/Makanan4.png","harga": 2.75,"rating": 4.5,"deskripsi":" Perpaduan roti burger dengan daging cincang manis dan gurih ini berpadu seimbang ditambah tetesan jeruk nipis sungguh sangat lezat"},
+    {"nama": "Croissant Coklat","img": "assets/Makanan3.png","harga": 3.0,"rating": 4.5,"deskripsi":"Croissant adalah roti atau kue kering (pastry) yang populer sebagai hidangan khas di Prancis, berbentuk bulan sabit, dan berlapis-lapis"},
+    {"nama": "Tiramisu Klasik","img": "assets/Makanan2.png","harga": 5.15,"rating": 4.5,"deskripsi":" Tiramisù (Tiramesù) adalah kue keju khas Italia dengan taburan bubuk kakao di atasnya. Kue ini merupakan hidangan penutup yang dimakan dengan sendok"},
+    {"nama": "Kue Tiramisu Coklat Hitam","img": "assets/Makanan5.png","harga": 10.0,"rating": 4.5,"deskripsi":"Kue cokelat murni yang lezat ini menampilkan kue bolu cokelat hitam yang lembut dan lembap, dilapisi dan dilapisi dengan frosting cokelat hitam beludru."},
+    {"nama": "Kue Keju","img": "assets/snack1.png","harga": 10.0,"rating": 4.5,"deskripsi":"terbuat dari campuran susu dan krim. Proses ini menghasilkan tekstur keju yang lebih lembut dan ringan."},
+    {"nama": "Waffle Belgia","img": "assets/Snack4.png","harga": 10.0,"rating": 4.5,"deskripsi":"Belgian Waffle merupakan kudapan khas yang berasal dari Belgia dengan adonan berbasis kue berbahan dasar tepung terigu yang dimasak dengan besi waffle bermotif untuk memberikan bentuk dan ciri yang khas."},
+    {"nama": "Roti Selai Panini","img": "assets/Snack3.png","harga": 10.0,"rating": 4.5,"deskripsi":"roti ini diberi isian peanut butter alias selai kacang yang crunchy."},
+    {"nama": "Cinnamon Roll","img": "assets/Snack5.png","harga": 10.5,"rating": 4.5,"deskripsi":"Burger isi daging ayam yang dibalut dengan keju mozzarella serta tomat dan selada dengan tambahan kentang goreng"},
+    {"nama": "Roti Tuna","img": "assets/Snack2.png","harga": 10.0,"rating": 4.5,"deskripsi":"Cinnamon roll merupkaan roti gulung yang berisikan gula palem dengan bubuk kayu manis dan cream cheese frosting sebagai toppingnya."}
+    ]
+}
